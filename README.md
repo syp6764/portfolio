@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 </section>
 
 <footer>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb4d4,100:96d6ff&height=150&section=footer" />
+
 </footer>
 

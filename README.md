@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb4d4,100:96d6ff&height=200&section=header&text=seoyoung's&fontSize=50&fontColor=fff&fontAlign=25&fontAlignY=40" />
+<header>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb4d4,100:96d6ff&height=200&section=header&text=seoyoung's&fontSize=50&fontColor=fff&fontAlign=25&fontAlignY=40" />
+</header>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb4d4,100:96d6ff&height=150&section=footer" />
+<section>
+  <h3>😊 Profile 😊</h3>
+  <ul>
+    <li>dd</li>
+  </ul>
+</section>
+
+<footer>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb4d4,100:96d6ff&height=150&section=footer" />
+</footer>
+

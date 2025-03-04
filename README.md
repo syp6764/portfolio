@@ -46,8 +46,8 @@ Here are some ideas to get you started:
   </ul>
   <h4>2023</h4>
   <ul>
-    <li><a href="" title="새창" target="_blank">보은군 대표 로그인 프로그램</li>
-    <li><a href="" title="새창" target="_blank">여주시 대표 로그인 프로그램</li>
+    <li><a href="" title="새창" target="_blank">보은군 통합로그인</li>
+    <li><a href="" title="새창" target="_blank">여주시 통합로그인</li>
   </ul>
 </section>
 

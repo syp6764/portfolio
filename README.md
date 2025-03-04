@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 </header>
 
 <section>
-  <h3>😊 Profile</h3>
+  <h1>😊 Profile</h3>
   <ul>
     <li>dd</li>
   </ul>
 </section>
 
 <section>
-  <h3>💫 Project</h3>
-  <h4>2025</h4>
+  <h1>📁 Project</h3>
+  <h2>2025</h4>
   <ul>
     <li><a href="" title="새창" target="_blank">광명시 문화관광 메인 레이아웃</li>
   </ul>
-  <h4>2024</h4>
+  <h2>2024</h4>
   <ul>
     <li><a href="" title="새창" target="_blank">공정거래위원회 영문 메인 레이아웃</li>
     <li><a href="" title="새창" target="_blank">성북구 대표 메인 레이아웃</li>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <li><a href="https://syp6764.github.io/project/cbnu/site/law/main.html" title="새창" target="_blank">충북대학교 규정집 메인 레이아웃</li>
     <li><a href="" title="새창" target="_blank">태백시 대표 인트로</li>
   </ul>
-  <h4>2023</h4>
+  <h2>2023</h4>
   <ul>
     <li><a href="" title="새창" target="_blank">보은군 통합로그인</li>
     <li><a href="" title="새창" target="_blank">여주시 통합로그인</li>

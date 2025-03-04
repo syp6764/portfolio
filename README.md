@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <section>
   <h1>😊 Profile</h3>
   <ul>
-    <li>dd</li>
+    <li>이름 : 박서영</li>
+    <li>나이 : 2000.04.15 (만 24세)</li>
+    <li>이메일 : syp6764@gmail.com</li>
+    <li>휴대폰 : 010-4818-4250</li>
   </ul>
 </section>
 

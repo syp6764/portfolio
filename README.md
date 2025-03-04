@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <li><a href="">구미시 통합예약 템플릿</li>
     <li><a href="">원주시 열린시장실 메인 레이아웃</li>
     <li><a href="https://syp6764.github.io/project/anyang/site/anyang5060/main.html">안양시 베이비부머 메인 레이아웃</li>
-    <li><a href="https://syp6764.github.io/project/wj_sbinfo/site/sbinfo/main.html">원주시 소상공인종합정보센 메인 레이아웃</li>
+    <li><a href="https://syp6764.github.io/project/wj_sbinfo/site/sbinfo/main.html">원주시 소상공인종합정보센터 메인 레이아웃</li>
     <li><a href="https://syp6764.github.io/project/cbnu/site/law/main.html">충북대학교 규정집 메인 레이아웃</li>
     <li><a href="">태백시 대표 인트로</li>
   </ul>

@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <h2>📅 2024</h4>
   <ul>
     <li><a href="">공정거래위원회 영문 메인 레이아웃</li>
-    <li><a href="">성북구 대표 메인 레이아웃</li>
+    <li><a href="https://syp6764.github.io/seongbukgu/site/www/main.html">성북구 대표 메인 레이아웃</li>
     <li><a href="">포천시 외국인주민지원센터 서브 레이아웃</li>
     <li><a href="">구미시 통합예약 템플릿</li>
     <li><a href="https://syp6764.github.io/project/wonju/site_2024/mayor/main.html">원주시 열린시장실 메인 레이아웃</li>

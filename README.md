@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <h1>📁 Project</h3>
   <h2>📅 2025</h4>
   <ul>
-    <li><a href="">광명시 문화관광 메인 레이아웃</li>
+    <li><a href="https://syp6764.github.io/project/gm/resources/tour/main.html">광명시 문화관광 메인 레이아웃</li>
   </ul>
   <h2>📅 2024</h4>
   <ul>

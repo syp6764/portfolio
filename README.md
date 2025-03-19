@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   </ul>
   <h2>📅 2023</h4>
   <ul>
-    <li><a href="">보은군 통합로그인</li>
+    <li><a href="https://syp6764.github.io/project/boeun/login/login.html">보은군 통합로그인</li>
     <li><a href="https://syp6764.github.io/project/yeoju/login/login.html">여주시 통합로그인</li>
   </ul>
 </section>
